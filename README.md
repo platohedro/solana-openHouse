@@ -1,6 +1,6 @@
-# Solana-workshop
+# Solana Open house
 
-Sesiones dirigidas por Alex ramirez 
+Sesiones dirigidas por Alex ramírez 
 
 Instalar solana y el cli en linux:
 
