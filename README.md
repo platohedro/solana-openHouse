@@ -2,7 +2,7 @@
 
 Sesiones dirigidas por Alex ramirez 
 
-Instalar solana y el cli en linux  
+Instalar solana y el cli en linux:
 
 * usar terminal bash "recomendado"
 
